@@ -1,7 +1,7 @@
 # Energy consumption prediction by Time series model 
 
 
-* The data is taken from: https://www.kaggle.com/robikscube/hourly-energy-consumption. The data is an hourly time series regarding the power consumption (in MW) in the Dayton region. The data spans from 2004-10-01 to 2018-08-03 (**n=121271**)
+* The data is taken from [kaggle](https://www.kaggle.com/robikscube/hourly-energy-consumption). The data is an hourly time series regarding the power consumption (in MW) in the Dayton region. The data spans from 2004-10-01 to 2018-08-03 (**n=121271**)
 
 
 ### Activatate the virtual environment
